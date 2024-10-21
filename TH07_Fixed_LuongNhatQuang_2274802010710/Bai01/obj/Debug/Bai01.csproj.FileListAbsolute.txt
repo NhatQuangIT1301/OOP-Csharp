@@ -1,0 +1,2 @@
+D:\C#\TH07_Fixed_LuongNhatQuang_2274802010710\Bai01\obj\Debug\Bai01.csproj.AssemblyReference.cache
+D:\C#\TH07_Fixed_LuongNhatQuang_2274802010710\Bai01\obj\Debug\Bai01.csproj.CoreCompileInputs.cache
