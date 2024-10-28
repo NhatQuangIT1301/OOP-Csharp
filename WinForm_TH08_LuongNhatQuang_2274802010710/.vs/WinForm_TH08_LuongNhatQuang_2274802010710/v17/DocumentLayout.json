@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\WinForm_TH08_LuongNhatQuang_2274802010710\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5857ECD-985F-437D-91DC-4D5FB50FD5D8}|Bai03\\Bai03.csproj|d:\\c#\\winform_th08_luongnhatquang_2274802010710\\bai03\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5857ECD-985F-437D-91DC-4D5FB50FD5D8}|Bai03\\Bai03.csproj|solutionrelative:bai03\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5857ECD-985F-437D-91DC-4D5FB50FD5D8}|Bai03\\Bai03.csproj|d:\\c#\\winform_th08_luongnhatquang_2274802010710\\bai03\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C5857ECD-985F-437D-91DC-4D5FB50FD5D8}|Bai03\\Bai03.csproj|solutionrelative:bai03\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 218,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\C#\\WinForm_TH08_LuongNhatQuang_2274802010710\\Bai03\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai03\\Form1.cs",
+              "ToolTip": "D:\\C#\\WinForm_TH08_LuongNhatQuang_2274802010710\\Bai03\\Form1.cs",
+              "RelativeToolTip": "Bai03\\Form1.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwEEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:57:05.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\WinForm_TH08_LuongNhatQuang_2274802010710\\Bai03\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai03\\Form1.cs",
+              "ToolTip": "D:\\C#\\WinForm_TH08_LuongNhatQuang_2274802010710\\Bai03\\Form1.cs [Design]",
+              "RelativeToolTip": "Bai03\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:56:57.196Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
