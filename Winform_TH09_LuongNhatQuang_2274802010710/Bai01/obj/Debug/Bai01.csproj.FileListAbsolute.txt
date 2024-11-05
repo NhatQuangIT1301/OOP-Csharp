@@ -1,0 +1,12 @@
+D:\C#\Winform_TH09_LuongNhatQuang_2274802010710\Bai01\bin\Debug\Bai01.exe.config
+D:\C#\Winform_TH09_LuongNhatQuang_2274802010710\Bai01\bin\Debug\Bai01.exe
+D:\C#\Winform_TH09_LuongNhatQuang_2274802010710\Bai01\bin\Debug\Bai01.pdb
+D:\C#\Winform_TH09_LuongNhatQuang_2274802010710\Bai01\obj\Debug\Bai01.csproj.AssemblyReference.cache
+D:\C#\Winform_TH09_LuongNhatQuang_2274802010710\Bai01\obj\Debug\Bai01.Form1.resources
+D:\C#\Winform_TH09_LuongNhatQuang_2274802010710\Bai01\obj\Debug\Bai01.Properties.Resources.resources
+D:\C#\Winform_TH09_LuongNhatQuang_2274802010710\Bai01\obj\Debug\Bai01.TimKiem.resources
+D:\C#\Winform_TH09_LuongNhatQuang_2274802010710\Bai01\obj\Debug\Bai01.csproj.GenerateResource.cache
+D:\C#\Winform_TH09_LuongNhatQuang_2274802010710\Bai01\obj\Debug\Bai01.csproj.CoreCompileInputs.cache
+D:\C#\Winform_TH09_LuongNhatQuang_2274802010710\Bai01\obj\Debug\Bai01.exe
+D:\C#\Winform_TH09_LuongNhatQuang_2274802010710\Bai01\obj\Debug\Bai01.pdb
+D:\C#\Winform_TH09_LuongNhatQuang_2274802010710\Bai01\obj\Debug\Bai01.SapXep.resources
